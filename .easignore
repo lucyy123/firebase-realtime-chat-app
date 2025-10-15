@@ -41,6 +41,3 @@ app-example
 ./env
 /android
 /ios
-google-services.json
-GoogleService-Info.plist
-handydash-75858-firebase-adminsdk-fbsvc-58ef359570.json
